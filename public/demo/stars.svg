@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+<defs>
+<radialGradient id="bg" cx=".5" cy=".3" r=".9"><stop offset="0" stop-color="#2a1a6e"/><stop offset="1" stop-color="#05040d"/></radialGradient>
+<radialGradient id="star"><stop offset="0" stop-color="#fff"/><stop offset=".3" stop-color="#ffe9a8"/><stop offset="1" stop-color="#ffe9a8" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="800" height="800" fill="url(#bg)"/>
+<g fill="#fff">
+<circle cx="80" cy="90" r="2"/><circle cx="160" cy="210" r="1.5"/><circle cx="260" cy="120" r="2.4"/><circle cx="350" cy="60" r="1.6"/><circle cx="520" cy="140" r="2"/><circle cx="690" cy="80" r="2.4"/><circle cx="740" cy="260" r="1.6"/>
+<circle cx="90" cy="380" r="1.6"/><circle cx="200" cy="470" r="2.2"/><circle cx="620" cy="420" r="1.8"/><circle cx="720" cy="520" r="2.2"/><circle cx="560" cy="600" r="1.5"/><circle cx="130" cy="620" r="2"/>
+</g>
+<circle cx="400" cy="330" r="160" fill="url(#star)"/>
+<path d="M400 230 L424 306 L504 306 L440 352 L464 428 L400 382 L336 428 L360 352 L296 306 L376 306Z" fill="#fff6c9"/>
+<path d="M200 600 Q400 520 600 600" stroke="#ffe9a8" stroke-width="2" fill="none" stroke-dasharray="6 10" opacity=".6"/>
+<text x="400" y="690" font-family="Georgia, serif" font-size="46" fill="#ffe9a8" text-anchor="middle" font-style="italic">Priya</text>
+</svg>

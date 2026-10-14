@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+<defs>
+<radialGradient id="bg" cx=".5" cy=".4" r=".7"><stop offset="0" stop-color="#5b2a86"/><stop offset="1" stop-color="#1b0b2e"/></radialGradient>
+<linearGradient id="t" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffb3c8"/><stop offset="1" stop-color="#f27ea2"/></linearGradient>
+</defs>
+<rect width="800" height="800" fill="url(#bg)"/>
+<g fill="#fff" opacity=".6"><circle cx="120" cy="140" r="3"/><circle cx="680" cy="120" r="4"/><circle cx="600" cy="260" r="2"/><circle cx="180" cy="300" r="2.5"/></g>
+<ellipse cx="400" cy="640" rx="260" ry="40" fill="#e9e4f5"/>
+<g transform="rotate(-14 400 560)">
+<rect x="210" y="420" width="380" height="180" rx="24" fill="url(#t)"/>
+<path d="M210 455 q24 30 48 0 t48 0 t48 0 t48 0 t48 0 t48 0 t48 0 t44 0 V440 a24 24 0 0 0 -24 -20 H234 a24 24 0 0 0 -24 20Z" fill="#fff5f8"/>
+<rect x="270" y="320" width="260" height="110" rx="20" fill="#fff2e0"/>
+<path d="M270 350 q22 24 44 0 t44 0 t44 0 t44 0 t44 0 t40 0 V338 a20 20 0 0 0 -20 -18 H290 a20 20 0 0 0 -20 18Z" fill="#7b3f2a"/>
+<rect x="390" y="250" width="20" height="72" rx="6" fill="#8ecae6"/><path d="M400 210 c16 20 14 36 0 40 c-14 -4 -16 -20 0 -40Z" fill="#ffd34d"/>
+</g>
+<g fill="#ffb3c8"><circle cx="640" cy="650" r="26"/><circle cx="690" cy="680" r="18"/><circle cx="140" cy="660" r="22"/></g>
+<text x="400" y="150" font-family="Georgia, serif" font-size="60" fill="#ffdf9e" text-anchor="middle" font-style="italic">oops!</text>
+</svg>

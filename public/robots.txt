@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /create
+Disallow: /edit/
+Disallow: /preview
+Disallow: /dashboard
+Disallow: /surprise/
+
+Sitemap: https://wishverse.vercel.app/sitemap.xml
